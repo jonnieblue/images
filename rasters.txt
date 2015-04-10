@@ -2,3 +2,4 @@ bill point
 column
 yellowstone
 astoria
+seattle
